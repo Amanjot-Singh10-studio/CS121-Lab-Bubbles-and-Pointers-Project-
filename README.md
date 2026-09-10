@@ -3,6 +3,7 @@
 
 This program will sorts 9 number which will use bubble sort by using functions and pointer. 
 
+```
 main(): # this is the main function where the progam start
     create values array with 9 numbers {7, 3, 9, 4, 6, 1, 2, 8, 5}
              #this will store the 9 number which is not in the corrct order and we will store these number. 
@@ -47,4 +48,4 @@ swap() # this will switch two values
     temp = *a # this will save the first number in temporary. 
     *a = *b     # this will put the second number in the first number place. 
     *b = temp   # this will put the first number in the second number place. 
-   
+```
